@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/lifuaini2019</id>
+    <title>飞壳票机</title>
+    <updated>2024-09-17T15:47:03.081Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/lifuaini2019"/>
+    <link rel="self" href="https://github.com/lifuaini2019/atom.xml"/>
+    <logo>https://github.com/lifuaini2019/images/avatar.png</logo>
+    <icon>https://github.com/lifuaini2019/favicon.ico</icon>
+    <rights>All rights reserved 2024, 飞壳票机</rights>
+    <entry>
+        <title type="html"><![CDATA[飞壳票机]]></title>
+        <id>https://github.com/lifuaini2019/post/fei-ke-piao-ji/</id>
+        <link href="https://github.com/lifuaini2019/post/fei-ke-piao-ji/">
+        </link>
+        <updated>2024-09-17T15:22:46.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="下载软件">下载软件</h1>
+<h2 id="使用教程">使用教程</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="下载软件">下载软件</h1>
+<h2 id="使用教程">使用教程</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://github.com/lifuaini2019/post/hello-gridea/</id>
+        <link href="https://github.com/lifuaini2019/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
